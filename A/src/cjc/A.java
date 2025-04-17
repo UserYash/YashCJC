@@ -11,4 +11,9 @@ public class A {
 	{
 		System.out.println("This is method m1");
 	}
+	
+	public void m2()
+	{
+		System.out.println("This is method m2");
+	}
 }
