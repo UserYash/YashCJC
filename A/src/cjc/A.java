@@ -6,4 +6,9 @@ public class A {
 		
 		System.out.println("Hello");
 	}
+
+	public void m1()
+	{
+		System.out.println("This is method m1");
+	}
 }
